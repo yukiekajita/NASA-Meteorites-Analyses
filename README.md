@@ -43,7 +43,7 @@ I was interested in exploring Meteorite Landings Data from NASA, Data.Gov. to ex
 
 ![table_2](ReadMe_Images/table_2.png)
 
-![mass](ReadMe_Images/Total_Number_Meteorites_MassRnage.png)
+![mass_range](ReadMe_Images/Total_Number_Meteorites_MassRange.png)
 
 ![mass_map](ReadMe_Images/Biggest_Mass10.png)
 
@@ -56,10 +56,10 @@ I was interested in exploring Meteorite Landings Data from NASA, Data.Gov. to ex
 ** The majority of meteorites were chondrites. 
 ** The only achondrites found so far was uleilite, but the origin of uleilite is still unknown.
 
-![mass](ReadMe_Images/Total_Number_Meteorites_Types.png)
+![types](ReadMe_Images/Total_Number_Meteorite_Types.png)
 
 
 6) Which countries found more meteorites?
 * New Zealand had the most number of records of meteorites!
 
-![mass](ReadMe_Images/Meteorites_Countries.png)
+![country](ReadMe_Images/Meteorites_Countries.png)
