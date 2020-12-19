@@ -21,11 +21,11 @@ I was interested in exploring Meteorite Landings Data from NASA, Data.Gov. to ex
 ### Results
 1) How many meteorites were found? - There were 706, 24,004, and 13,404 meteorites discovered on earth < 1900, 1900-2000, and 2000-current year, respectively.
 
-![total_number](ReadMe_Images/Total Number of Meteorite Landings in Years.png)
+![total_number](ReadMe_Images/Total_Number_Meteorite_Years.png)
 
-  I set up bins to create a range of years to show the total number of meteorites for each year range.
+* I set up bins to create a range of years to show the total number of meteorites for each year range.
   
-![total_number](ReadMe_Images/Total Number of Meteorite Landings in Year range.png)
+![total_number](ReadMe_Images/Total_Number_Meteorite_YearRange.png)
 
 
 2) Which meteorites were found in the earliest year? - The oldest meteorite found on earth was Nogata city in Japan in 860.
