@@ -30,7 +30,7 @@ I was interested in exploring Meteorite Landings Data from NASA, Data.Gov. to ex
 
 
 2) Which meteorites were found in the earliest year?
-* The oldest meteorite found on earth was Nogata city in Japan in 860.
+* The oldest meteorite found on earth was from Nogata city in Japan in 860.
 
 ![table](ReadMe_Images/table_1.png)
 
@@ -50,11 +50,11 @@ I was interested in exploring Meteorite Landings Data from NASA, Data.Gov. to ex
 
 5) What types of meteorites did we find?
 * There were 422 different types of meteorites were found.
-* There are two majoy groups of meteorites - Chondrites and Achondrites.
-** Chondrites are pre-planetaru rocks that formed about 4.5 billion years ago somewhere in the solar system.
-** Achondrites are pieces of differentiated planetary bodies, like rocks and stones from moon or mars.
-** The majority of meteorites were chondrites. 
-** The only achondrites found so far was uleilite, but the origin of uleilite is still unknown.
+* There are two major groups of meteorites - Chondrites and Achondrites.
+* Chondrites are pre-planetary rocks that formed about 4.5 billion years ago somewhere in the solar system.
+* Achondrites are pieces of differentiated planetary bodies, like rocks and stones from moon or mars.
+* The majority of meteorites were chondrites. 
+* 'Uleilite' was the only achondrite found so far, but the origin of uleilite is still unknown.
 
 ![types](ReadMe_Images/Total_Number_Meteorite_Types.png)
 
